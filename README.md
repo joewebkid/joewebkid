@@ -114,9 +114,9 @@
     </td>
     <td align="center" width="96">
       <a href="#franjsco-tech" >
-        <img src="https://cdn.worldvectorlogo.com/logos/openapi-1.svg" width="48" height="48" alt="OpenAPI" />
+        <img src="https://wordpress.org/style/images/w-mark.svg" width="48" height="48" alt="OpenAPI" />
       </a>
-      <br>OpenAPI
+      <br>WordPress
     </td>
     <td align="center" width="96">
       <a href="#franjsco-tech">
