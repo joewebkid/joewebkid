@@ -9,5 +9,5 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joewebkid&layout=compact&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joewebkid&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![Stats](https://github-readme-stats.vercel.app/api?username=joewebkid&count_private=true&include_all_commits=true&disable_animations=true&hide_rank=true&show_icons=true&custom_title=Stats&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
