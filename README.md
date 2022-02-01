@@ -114,15 +114,15 @@
     </td>
     <td align="center" width="96">
       <a href="#joewebkid" >
-        <img src="https://wordpress.org/style/images/w-mark.svg" width="48" height="48" alt="OpenAPI" style="filter: invert(100%)" />
+        <img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" width="48" height="48" alt="WordPress" />
       </a>
       <br>WordPress
     </td>
     <td align="center" width="96">
-      <a href="#joewebkid">
-        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" width="48" height="48" alt="TailWind" />
+      <a href="#joewebkid" >
+        <img src="https://cdn.worldvectorlogo.com/logos/openapi-1.svg" width="48" height="48" alt="OpenAPI" />
       </a>
-      <br>TailWind
+      <br>OpenAPI
     </td>
     <td align="center" width="96">
       <a href="#joewebkid" >
