@@ -10,4 +10,4 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franjsco&layout=joewebkid&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![Stats](https://github-readme-stats.vercel.app/api?username=joewebkid&count_private=true&include_all_commits=true&disable_animations=true&hide_rank=true&show_icons=true&custom_title=Stats&layout=compact&hide=issues)](https://github.com/anuraghazra/github-readme-stats) 
+[![Stats](https://github-readme-stats.vercel.app/api?username=joewebkid&count_private=true&include_all_commits=true&disable_animations=true&hide_rank=true&show_icons=true&custom_title=Stats&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
