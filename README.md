@@ -114,7 +114,7 @@
     </td>
     <td align="center" width="96">
       <a href="#joewebkid" >
-        <img src="https://wordpress.org/style/images/w-mark.svg" width="48" height="48" alt="OpenAPI" />
+        <img src="https://wordpress.org/style/images/w-mark.svg" width="48" height="48" alt="OpenAPI" style="filter: invert(100%)" />
       </a>
       <br>WordPress
     </td>
